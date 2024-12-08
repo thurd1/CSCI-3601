@@ -1,0 +1,19 @@
+Event Name           | Date       | Time      | Location           | Professor          | Seats
+---------------------------------------------------------------------------------------------
+CSCI-3601            | M/W        | 0845-1000 | Pioneer Plaza      | Zhu                | 194
+CSCI-3501            | M/W        | 0845-1000 | Pioneer Plaza      | Zhu                | 194
+CSCI-3771            | M/W        | 1400-1315 | Pioneer Plaza      | Crawford           | 196
+CSCI-3401            | M          | 1730-1900 | Hickham AFB        | Ishaque            | 190
+CSCI-3911            | T/TR       | 1215-1330 | Pioneer Plaza      | Smith              | 189
+CSCI-4701            | T/TR       | 1000-1115 | Pioneer Plaza      | Kim                | 200
+CSCI-4802            | M/W        | 1400-1515 | Waterfront Plaza   | Tanaka             | 180
+CSCI-4903            | F          | 0900-1200 | Hickham AFB        | Chen               | 150
+CSCI-5001            | M/W        | 1330-1445 | Pioneer Plaza      | Johnson            | 200
+CSCI-5102            | T/TR       | 1500-1615 | Waterfront Plaza   | Martin             | 170
+CSCI-5203            | T          | 1830-2030 | Hickham AFB        | Lee                | 120
+CSCI-5304            | W          | 1500-1700 | Pioneer Plaza      | Patel              | 220
+CSCI-5405            | M/W        | 1600-1715 | Waterfront Plaza   | Simmons            | 180
+CSCI-5506            | T/TR       | 0830-0945 | Hickham AFB        | Anderson           | 100
+CSCI-5607            | M/W/F      | 1130-1245 | Pioneer Plaza      | Hernandez          | 250
+CSCI-5708            | T/TR       | 1730-1845 | Waterfront Plaza   | Nguyen             | 180
+CSCI-5809            | T          | 1930-2100 | Hickham AFB        | Garcia             | 130
